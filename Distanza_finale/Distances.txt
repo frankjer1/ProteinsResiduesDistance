@@ -1,0 +1,492 @@
+First Atom id:   206
+First Atom type:  CE 
+First Residue:  LYS
+First Residue ID:   27
+First Chain: A
+Second Atom id:  1200
+Second Atom type:  O  
+Second Residue:  THR
+Second Residue ID:   42
+Second Chain: B
+Distance: 3.30438587335075
+
+First Atom id:   205
+First Atom type:  CD 
+First Residue:  LYS
+First Residue ID:   27
+First Chain: A
+Second Atom id:  1205
+Second Atom type:  CA 
+Second Residue:  GLY
+Second Residue ID:   43
+Second Chain: B
+Distance: 3.707114915942048
+
+First Atom id:   236
+First Atom type:  NE2
+First Residue:  GLN
+First Residue ID:   31
+First Chain: A
+Second Atom id:  1200
+Second Atom type:  O  
+Second Residue:  THR
+Second Residue ID:   42
+Second Chain: B
+Distance: 3.2722999556886574
+
+First Atom id:   236
+First Atom type:  NE2
+First Residue:  GLN
+First Residue ID:   31
+First Chain: A
+Second Atom id:  1205
+Second Atom type:  CA 
+Second Residue:  GLY
+Second Residue ID:   43
+Second Chain: B
+Distance: 4.873943577843305
+
+First Atom id:   267
+First Atom type:  CH2
+First Residue:  TRP
+First Residue ID:   35
+First Chain: A
+Second Atom id:  1207
+Second Atom type:  O  
+Second Residue:  GLY
+Second Residue ID:   43
+Second Chain: B
+Distance: 3.8023188977254416
+
+First Atom id:   273
+First Atom type:  CG1
+First Residue:  VAL
+First Residue ID:   36
+First Chain: A
+Second Atom id:  1235
+Second Atom type:  CD 
+Second Residue:  GLU
+Second Residue ID:   46
+Second Chain: B
+Distance: 4.175897867525018
+
+First Atom id:   279
+First Atom type:  CB 
+First Residue:  ALA
+First Residue ID:   37
+First Chain: A
+Second Atom id:  1207
+Second Atom type:  O  
+Second Residue:  GLY
+Second Residue ID:   43
+Second Chain: B
+Distance: 3.310867862056715
+
+First Atom id:   279
+First Atom type:  CB 
+First Residue:  ALA
+First Residue ID:   37
+First Chain: A
+Second Atom id:  1218
+Second Atom type:  CE3
+Second Residue:  TRP
+Second Residue ID:   44
+Second Chain: B
+Distance: 3.671007082531987
+
+First Atom id:   281
+First Atom type:  CA 
+First Residue:  SER
+First Residue ID:   38
+First Chain: A
+Second Atom id:  1221
+Second Atom type:  CH2
+Second Residue:  TRP
+Second Residue ID:   44
+Second Chain: B
+Distance: 3.9921480433470893
+
+First Atom id:   393
+First Atom type:  O  
+First Residue:  ILE
+First Residue ID:   55
+First Chain: A
+Second Atom id:  1173
+Second Atom type:  NE1
+Second Residue:  TRP
+Second Residue ID:   38
+Second Chain: B
+Distance: 4.390904918123369
+
+First Atom id:   408
+First Atom type:  CZ 
+First Residue:  PHE
+First Residue ID:   56
+First Chain: A
+Second Atom id:  1149
+Second Atom type:  CG 
+Second Residue:  ASP
+Second Residue ID:   35
+Second Chain: B
+Distance: 3.555073557607493
+
+First Atom id:   411
+First Atom type:  C  
+First Residue:  SER
+First Residue ID:   57
+First Chain: A
+Second Atom id:  1150
+Second Atom type:  OD1
+Second Residue:  ASP
+Second Residue ID:   35
+Second Chain: B
+Distance: 4.172478040685176
+
+First Atom id:   414
+First Atom type:  OG 
+First Residue:  SER
+First Residue ID:   57
+First Chain: A
+Second Atom id:  1480
+Second Atom type:  OE1
+Second Residue:  GLU
+Second Residue ID:   76
+Second Chain: B
+Distance: 4.692958555112116
+
+First Atom id:   415
+First Atom type:  N  
+First Residue:  ASN
+First Residue ID:   58
+First Chain: A
+Second Atom id:  1150
+Second Atom type:  OD1
+Second Residue:  ASP
+Second Residue ID:   35
+Second Chain: B
+Distance: 3.466361925708279
+
+First Atom id:   429
+First Atom type:  CD 
+First Residue:  ARG
+First Residue ID:   59
+First Chain: A
+Second Atom id:  1139
+Second Atom type:  O  
+Second Residue:  LEU
+Second Residue ID:   34
+Second Chain: B
+Distance: 3.5641676447664454
+
+First Atom id:   433
+First Atom type:  NH2
+First Residue:  ARG
+First Residue ID:   59
+First Chain: A
+Second Atom id:  1172
+Second Atom type:  CD2
+Second Residue:  TRP
+Second Residue ID:   38
+Second Chain: B
+Distance: 3.211384280960471
+
+First Atom id:   432
+First Atom type:  NH1
+First Residue:  ARG
+First Residue ID:   59
+First Chain: A
+Second Atom id:  1450
+Second Atom type:  CG2
+Second Residue:  VAL
+Second Residue ID:   73
+Second Chain: B
+Distance: 4.536811655777657
+
+First Atom id:   442
+First Atom type:  OE2
+First Residue:  GLU
+First Residue ID:   60
+First Chain: A
+Second Atom id:  1132
+Second Atom type:  CB 
+Second Residue:  ASN
+Second Residue ID:   33
+Second Chain: B
+Distance: 3.407925468668588
+
+First Atom id:   434
+First Atom type:  N  
+First Residue:  GLU
+First Residue ID:   60
+First Chain: A
+Second Atom id:  1151
+Second Atom type:  OD2
+Second Residue:  ASP
+Second Residue ID:   35
+Second Chain: B
+Distance: 3.232648913816656
+
+First Atom id:   455
+First Atom type:  NZ 
+First Residue:  LYS
+First Residue ID:   62
+First Chain: A
+Second Atom id:  1132
+Second Atom type:  CB 
+Second Residue:  ASN
+Second Residue ID:   33
+Second Chain: B
+Distance: 4.1477772360627085
+
+First Atom id:   610
+First Atom type:  CD1
+First Residue:  PHE
+First Residue ID:   82
+First Chain: A
+Second Atom id:  1220
+Second Atom type:  CZ3
+Second Residue:  TRP
+Second Residue ID:   44
+Second Chain: B
+Distance: 4.131997821877451
+
+First Atom id:   618
+First Atom type:  O  
+First Residue:  ARG
+First Residue ID:   83
+First Chain: A
+Second Atom id:  1100
+Second Atom type:  CE2
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 3.4124589374818863
+
+First Atom id:   624
+First Atom type:  NH1
+First Residue:  ARG
+First Residue ID:   83
+First Chain: A
+Second Atom id:  1207
+Second Atom type:  O  
+Second Residue:  GLY
+Second Residue ID:   43
+Second Chain: B
+Distance: 3.9326249503353363
+
+First Atom id:   629
+First Atom type:  O  
+First Residue:  ASN
+First Residue ID:   84
+First Chain: A
+Second Atom id:  1101
+Second Atom type:  CZ 
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 3.5890915285068994
+
+First Atom id:   638
+First Atom type:  CB 
+First Residue:  SER
+First Residue ID:   85
+First Chain: A
+Second Atom id:  1097
+Second Atom type:  CD1
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 3.9237513937557242
+
+First Atom id:   658
+First Atom type:  NH2
+First Residue:  ARG
+First Residue ID:   87
+First Chain: A
+Second Atom id:  1102
+Second Atom type:  OH 
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 4.356967867680459
+
+First Atom id:   771
+First Atom type:  O  
+First Residue:  ASP
+First Residue ID:  101
+First Chain: A
+Second Atom id:  1094
+Second Atom type:  O  
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 4.591606363790347
+
+First Atom id:   771
+First Atom type:  O  
+First Residue:  ASP
+First Residue ID:  101
+First Chain: A
+Second Atom id:  1116
+Second Atom type:  CA 
+Second Residue:  GLY
+Second Residue ID:   31
+Second Chain: B
+Distance: 4.134654882816703
+
+First Atom id:   780
+First Atom type:  CB 
+First Residue:  HIS
+First Residue ID:  102
+First Chain: A
+Second Atom id:  1094
+Second Atom type:  O  
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 3.428101807123003
+
+First Atom id:   782
+First Atom type:  ND1
+First Residue:  HIS
+First Residue ID:  102
+First Chain: A
+Second Atom id:  1104
+Second Atom type:  CA 
+Second Residue:  TYR
+Second Residue ID:   30
+Second Chain: B
+Distance: 3.646176216257246
+
+First Atom id:   779
+First Atom type:  O  
+First Residue:  HIS
+First Residue ID:  102
+First Chain: A
+Second Atom id:  1135
+Second Atom type:  ND2
+Second Residue:  ASN
+Second Residue ID:   33
+Second Chain: B
+Distance: 3.416080063464555
+
+First Atom id:   782
+First Atom type:  ND1
+First Residue:  HIS
+First Residue ID:  102
+First Chain: A
+Second Atom id:  1156
+Second Atom type:  CB 
+Second Residue:  ALA
+Second Residue ID:   36
+Second Chain: B
+Distance: 3.477089731370186
+
+First Atom id:   785
+First Atom type:  NE2
+First Residue:  HIS
+First Residue ID:  102
+First Chain: A
+Second Atom id:  1183
+Second Atom type:  CB 
+Second Residue:  ALA
+Second Residue ID:   39
+Second Chain: B
+Distance: 4.13716738844345
+
+First Atom id:   789
+First Atom type:  O  
+First Residue:  TYR
+First Residue ID:  103
+First Chain: A
+Second Atom id:  1135
+Second Atom type:  ND2
+Second Residue:  ASN
+Second Residue ID:   33
+Second Chain: B
+Distance: 3.378675036164322
+
+First Atom id:   790
+First Atom type:  CB 
+First Residue:  TYR
+First Residue ID:  103
+First Chain: A
+Second Atom id:  1148
+Second Atom type:  CB 
+Second Residue:  ASP
+Second Residue ID:   35
+Second Chain: B
+Distance: 3.852820784827656
+
+First Atom id:   792
+First Atom type:  CD1
+First Residue:  TYR
+First Residue ID:  103
+First Chain: A
+Second Atom id:  1153
+Second Atom type:  CA 
+Second Residue:  ALA
+Second Residue ID:   36
+Second Chain: B
+Distance: 3.790852806427598
+
+First Atom id:   794
+First Atom type:  CE1
+First Residue:  TYR
+First Residue ID:  103
+First Chain: A
+Second Atom id:  1183
+Second Atom type:  CB 
+Second Residue:  ALA
+Second Residue ID:   39
+Second Chain: B
+Distance: 3.5986423828994174
+
+First Atom id:   806
+First Atom type:  NE2
+First Residue:  GLN
+First Residue ID:  104
+First Chain: A
+Second Atom id:  1094
+Second Atom type:  O  
+Second Residue:  TYR
+Second Residue ID:   29
+Second Chain: B
+Distance: 4.7465197776897545
+
+First Atom id:   806
+First Atom type:  NE2
+First Residue:  GLN
+First Residue ID:  104
+First Chain: A
+Second Atom id:  1106
+Second Atom type:  O  
+Second Residue:  TYR
+Second Residue ID:   30
+Second Chain: B
+Distance: 4.6965064675777874
+
+First Atom id:   803
+First Atom type:  CG 
+First Residue:  GLN
+First Residue ID:  104
+First Chain: A
+Second Atom id:  1118
+Second Atom type:  O  
+Second Residue:  GLY
+Second Residue ID:   31
+Second Chain: B
+Distance: 3.2509023362752694
+
+First Atom id:   798
+First Atom type:  N  
+First Residue:  GLN
+First Residue ID:  104
+First Chain: A
+Second Atom id:  1135
+Second Atom type:  ND2
+Second Residue:  ASN
+Second Residue ID:   33
+Second Chain: B
+Distance: 3.7198754011391286
+
