@@ -1,4 +1,4 @@
-# Protein Residues Links calculator
+# Protein Chains Links calculator
 
 Hello everyone!
 This simple project let the user understand where are the links between protein chains valutating the distances between ther residues.
